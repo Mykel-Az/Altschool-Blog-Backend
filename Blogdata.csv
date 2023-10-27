@@ -1,8 +1,0 @@
-Blog_Id,User_Id,First_name,Last_name,Blog_title,Blog_post,Time_posted,Time_Edited
-
-00000000-0000-0000-0000-000000000002,4457e6df-6ef3-11ee-baf4-40b034e3fc76,Michael,Azeez-Adekanmbi,Markdown extensions,allow you to extend and enhance Visual Studio Code's built-in Markdown preview. This includes changing the look of the preview or adding,2023-10-22 02:25:57.781000+00:00,edited
-00000000-0000-0000-0000-000000000003,4457e6df-6ef3-11ee-baf4-40b034e3fc76,Michael,Azeez-Adekanmbi,Example new big header,The DateTime object was then modified to contain the timezone information as well using the timezone.,2023-10-26 17:36:45.063000+00:00,edited
-00000000-0000-0000-0000-000000000005,6bf2fb50-7087-11ee-b9c0-40b034e3fc76,Ayorinde,Ayobami,Simple header,"It's important you type the two dots, since you won't navigate anywhere if you simply type �cd� into the prompt",2023-10-22 02:58:24.222000+00:00,edited
-00000000-0000-0000-0000-000000000006,834dec6c-7142-11ee-8794-40b034e3fc76,Keye,OMolekan,Sample Edited test,"Not a word that can be found in a dictionary or the name of a person, character, product, or organization",2023-10-24 09:05:01.912000+00:00,edited
-00000000-0000-0000-0000-000000000007,70c3c7c6-744d-11ee-9177-40b034e3fc76,Omokeye,Omolekan,work harder no ones cares,"I will never let the small talks but the money get to me, I dey work, I dey pray, omo nothing worry me.",2023-10-26 22:25:37.580000+00:00,edited
-00000000-0000-0000-0000-000000000007,da017931-744f-11ee-9ff2-40b034e3fc76,Star,Legend,Test header title,TEst sample post na you sabi,2023-10-26 22:36:41.070000+00:00
